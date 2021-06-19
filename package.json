@@ -1,0 +1,23 @@
+{
+  "name": "popcorn-cli",
+  "version": "1.0.0",
+  "description": "popcorn-cli",
+  "main": "index.js",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popcorn1024/popcorn-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popcorn1024/popcorn-cli/issues"
+  },
+  "homepage": "https://github.com/popcorn1024/popcorn-cli#readme"
+}
