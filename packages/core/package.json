@@ -29,5 +29,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "4b5d95467a5046c866773326b3eb0132cf803d3d"
+  "gitHead": "4b5d95467a5046c866773326b3eb0132cf803d3d",
+  "dependencies": {
+    "@popcorn-cli/utils": "^1.0.3"
+  }
 }
