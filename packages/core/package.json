@@ -1,6 +1,6 @@
 {
   "name": "@popcorn-cli/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "popcorn-cli dev",
   "author": "popcorn1024 <448421908@qq.com>",
   "homepage": "https://github.com/popcorn1024/popcorn-cli/tree/main/packages/core#readme",
@@ -31,6 +31,6 @@
   },
   "gitHead": "4b5d95467a5046c866773326b3eb0132cf803d3d",
   "dependencies": {
-    "@popcorn-cli/utils": "^1.0.3"
+    "@popcorn-cli/utils": "^1.0.4"
   }
 }
